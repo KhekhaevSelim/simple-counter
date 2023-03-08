@@ -1,0 +1,13 @@
+/*.container{*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*}*/
+
+.normal{
+    min-width: 3vw;
+    min-height: 3vh;
+    min-font-size: 50%;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
